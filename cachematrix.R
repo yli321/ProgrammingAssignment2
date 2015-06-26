@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Write a short comment describing this function
 # makeCacheMatrix creates a special "matrix" object containing a function to
 # 1. set the value of the matrix
